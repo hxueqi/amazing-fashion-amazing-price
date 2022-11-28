@@ -35,4 +35,6 @@ DB_PASS=(your password)
 
 6. - You can run `DESCRIBE eustat_data;` to check that the table has been set up correctly.
 
+## Example ##
+
 ![alt text](./App_look.png "app_main_page")
