@@ -13,7 +13,7 @@ Also you can use for the collect products from different sites
 - - Node JS / Nodemon
 NPM package rss-parser for reading RSS feeds
 
-## DATABASE ##
+# DATABASE
 
 The database I am using is called: paygapinfo
 It has one table: eustat_data
@@ -35,6 +35,6 @@ DB_PASS=(your password)
 
 6. - You can run `DESCRIBE eustat_data;` to check that the table has been set up correctly.
 
-## Example ##
+# Example
 
 ![alt text](./App_look.png "app_main_page")
