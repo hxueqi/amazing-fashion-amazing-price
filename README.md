@@ -2,7 +2,7 @@
 price tracker that track online store's products price and notify user when the price drops
 
 # Usage
-Track the of given url product, if the product drop the price, then send a notification to the user.
+Track the given url product, if the product drop the price, then send a notification to the user.
 Also you can use for the collect products from different sites
 
 # Technologies used
